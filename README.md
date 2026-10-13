@@ -1,5 +1,7 @@
 # Audio a MIDI
 
+[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/notebooks/welcome?src=https://github.com/EnriqueOlveraMonroy/Convertidor_MIDI/blob/main/Cancion_a_MIDI_Kaggle.ipynb)
+
 Transcripción de canciones a MIDI con pistas separadas por instrumento.
 
 Este proyecto convierte una grabación de audio en una representación musical editable. A partir de una canción, utiliza MuScriptor para estimar las notas y los instrumentos presentes y organizarlos en archivos MIDI que pueden abrirse en un DAW o editor musical.
