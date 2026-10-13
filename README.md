@@ -1,6 +1,8 @@
 # Audio a MIDI
 
-[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/notebooks/welcome?src=https://github.com/EnriqueOlveraMonroy/Convertidor_MIDI/blob/main/Cancion_a_MIDI_Kaggle.ipynb)
+[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/enriqueolveramonroy/cancion-a-midi-kaggle)
+
+Para usar el conversor, abre el notebook y pulsa **Copy & Edit** para crear una copia en tu cuenta. Necesitarás activar GPU, añadir tu canción y configurar tu propio `HF_TOKEN` en Secrets.
 
 Transcripción de canciones a MIDI con pistas separadas por instrumento.
 
