@@ -1,0 +1,36 @@
+# Environments and generated files
+.venv/
+venv/
+.cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.tmp
+.ipynb_checkpoints/
+resultados/
+work/
+
+# Credentials
+.env
+.env.*
+kaggle.json
+token
+token.txt
+stored_tokens
+credentials.json
+
+# Audio, model weights and conversion results
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.ogg
+*.aac
+*.opus
+*.mid
+*.midi
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.zip
